@@ -1,4 +1,4 @@
 Link
 ---
--[Get Started](http://bootstrap-table.wenzhixin.net.cn/getting-started/)
+- [Get Started](http://bootstrap-table.wenzhixin.net.cn/getting-started/)
 
