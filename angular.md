@@ -5,3 +5,7 @@ visulizations
 translate
 ---
 - [angular-translate](https://github.com/angular-translate/angular-translate)
+
+loader
+---
+- [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
