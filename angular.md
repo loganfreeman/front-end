@@ -9,3 +9,7 @@ translate
 loader
 ---
 - [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
+
+router
+---
+- [ui-router](https://github.com/angular-ui/ui-router)
