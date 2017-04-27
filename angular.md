@@ -13,3 +13,7 @@ loader
 router
 ---
 - [ui-router](https://github.com/angular-ui/ui-router)
+
+compiler
+---
+- [AHEAD-OF-TIME COMPILATION](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
